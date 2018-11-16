@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWorkService", "AdventureWorkService\AdventureWorkService.csproj", "{A177350A-477D-43C5-A670-67281976413C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWorksEntity", "AdventureWorksEntity\AdventureWorksEntity.csproj", "{94E58628-71CE-4EE5-91AE-033F89EB46ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWorksSimple", "AdventureWorksSimple\AdventureWorksSimple.csproj", "{FD95C08D-5471-422D-A08F-9D007356B86F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWorksSimpleConsole", "AdventureWorksSimpleConsole\AdventureWorksSimpleConsole.csproj", "{319985FA-7230-4BF0-95D7-5DBEEA570FFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "readme", "readme", "{6EDF7674-7EA2-48E7-BA81-A29739DAB030}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		NuGet.config = NuGet.config
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A177350A-477D-43C5-A670-67281976413C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A177350A-477D-43C5-A670-67281976413C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A177350A-477D-43C5-A670-67281976413C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A177350A-477D-43C5-A670-67281976413C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94E58628-71CE-4EE5-91AE-033F89EB46ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94E58628-71CE-4EE5-91AE-033F89EB46ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94E58628-71CE-4EE5-91AE-033F89EB46ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94E58628-71CE-4EE5-91AE-033F89EB46ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD95C08D-5471-422D-A08F-9D007356B86F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD95C08D-5471-422D-A08F-9D007356B86F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD95C08D-5471-422D-A08F-9D007356B86F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD95C08D-5471-422D-A08F-9D007356B86F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{319985FA-7230-4BF0-95D7-5DBEEA570FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319985FA-7230-4BF0-95D7-5DBEEA570FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319985FA-7230-4BF0-95D7-5DBEEA570FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319985FA-7230-4BF0-95D7-5DBEEA570FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
