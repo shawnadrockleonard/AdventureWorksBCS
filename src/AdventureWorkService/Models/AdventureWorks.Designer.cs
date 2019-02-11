@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'K:\sleonard\tfs\tfsspl\o365help\epa\BCS\AdventureWorkService\AdventureWorkService\Models\AdventureWorks.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\source\shawniq-github\AdventureWorksBCS\src\AdventureWorkService\Models\AdventureWorks.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.
